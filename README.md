@@ -203,7 +203,6 @@ ADEME-transition-data-analysis/
 │   ├── 02_exploratory_analysis.ipynb
 │   └── 03_statistical_analysis.ipynb
 │
-├── outputs/
 ├── .gitignore
 └── README.md
 ```
@@ -376,7 +375,6 @@ ADEME-transition-data-analysis/
 │   ├── 02_exploratory_analysis.ipynb
 │   └── 03_statistical_analysis.ipynb
 │
-├── outputs/
 ├── .gitignore
 └── README.md
 ```
